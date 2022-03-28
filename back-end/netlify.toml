@@ -1,0 +1,6 @@
+[build]
+command = "npm run build"
+publish = "/"
+[[redirects]]
+from="/*"
+status=200
